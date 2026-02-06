@@ -1,3 +1,4 @@
+python agent_memory_basic.py
 from tools import kalkulator, kamus_lookup, baca_file
 
 def log_interaksi(user_input, agent_output):
