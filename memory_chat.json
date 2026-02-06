@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "arti python"
+  },
+  {
+    "role": "agent",
+    "content": "Arti 'python': Bahasa pemrograman populer untuk otomasi, data, dan AI."
+  },
+  {
+    "role": "user",
+    "content": "hitung 5*6"
+  },
+  {
+    "role": "agent",
+    "content": "Hasil perhitungan: 30"
+  },
+  {
+    "role": "user",
+    "content": "ringkas chat"
+  },
+  {
+    "role": "agent",
+    "content": "[{'role': 'user', 'content': 'arti python'}, {'role': 'agent', 'content': \"Arti 'python': Bahasa pemrograman populer untuk otomasi, data, dan AI.\"}, {'role': 'user', 'content': 'hitung 5*6'}, {'role': 'agent', 'content': 'Hasil perhitungan: 30'}, {'role': 'user', 'content': 'ringkas chat'}]"
+  }
+]

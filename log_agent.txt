@@ -1,0 +1,22 @@
+USER: 
+AGENT: Saya belum punya tool untuk itu.
+---
+USER: yah
+AGENT: Saya belum punya tool untuk itu.
+---
+USER: 
+AGENT: Saya belum punya tool untuk itu.
+---
+USER: 
+AGENT: Saya belum punya tool untuk itu.
+---
+USER: hitung 12*3+4
+AGENT: Hasil perhitungan: 40
+---
+USER: arti python
+AGENT: Arti 'python': Bahasa pemrograman populer untuk otomasi, data, dan AI.
+---
+USER: baca file materi.txt
+AGENT: Isi file 'materi.txt':
+Python adalah bahasa pemrograman yang mudah dipelajari. Python banyak digunakan di bidang data dan AI. Agent AI dapat menggunakan tools untuk membantu tugas.
+---

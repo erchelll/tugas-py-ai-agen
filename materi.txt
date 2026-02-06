@@ -1,0 +1,1 @@
+Python adalah bahasa pemrograman yang mudah dipelajari. Python banyak digunakan di bidang data dan AI. Agent AI dapat menggunakan tools untuk membantu tugas.
